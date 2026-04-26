@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Semih Bahadır ERSÖZ</h1>
 <h3 align="center">### 👨‍💻 Backend Developer with a little sense of humor | Java & C# | Spring Boot & .NET Core > Building the backbone of web applications with Spring Boot & .NET. > Exploring the depths of Backend Engineering | Final Year CS Student</h3>
 
-- 📫 How to reach me **semihbahadirersozbusiness@gmail.com**
+- 📫 How to reach me ==> **semihbahadirersozbusiness@gmail.com**
 
-- 📄 Here is my resume [link](https://drive.google.com/file/d/1Rx7my8EJHrJxM7GAZidaYzYIzoIRQ4hj/view?usp=sharing)
+- 📄 Here is my resume [Here](https://drive.google.com/file/d/1Rx7my8EJHrJxM7GAZidaYzYIzoIRQ4hj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
