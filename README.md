@@ -7,7 +7,7 @@
 
 
 
-- 📄 Here is my resume [Here]([https://drive.google.com/file/d/1Rx7my8EJHrJxM7GAZidaYzYIzoIRQ4hj/view?usp=sharing](https://drive.google.com/file/d/1Kpt9HT1txk8HjxSEwPsJlYWCqbVeVeqH/view?usp=sharing))
+- 📄 Here is my resume [Here](https://drive.google.com/file/d/1Kpt9HT1txk8HjxSEwPsJlYWCqbVeVeqH/view?usp=sharing)
 
   
 <h3 align="left">Connect with me:</h3>
