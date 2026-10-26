@@ -3,11 +3,9 @@
 
 
 
-- 📫 How to reach me ==> **semihbahadirersozbusiness@gmail.com**
+- 📫 How to reach me ==> **semihbahadirersoz@gmail.com**
 
-
-
-- 📄 Here is my resume [Here](https://drive.google.com/file/d/1Kpt9HT1txk8HjxSEwPsJlYWCqbVeVeqH/view?usp=sharing)
+- 📄 Here is my  [Resume](https://drive.google.com/file/d/1r8fT7XkiGvt2QpB96koG_kB_IuaQQKiJ/view?usp=drive_link)
 
   
 <h3 align="left">Connect with me:</h3>
